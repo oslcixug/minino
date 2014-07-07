@@ -38,6 +38,8 @@ Plugin {
         }
         separator {
         }
+# TODO: Ver como evitar ter que introducir o campo 'name' e que se poida traducir
+# xunto co idioma utilizado no sistema.
         item {
             image=gnome-logout
             name=Saír
