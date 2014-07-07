@@ -1,0 +1,4 @@
+minino
+======
+
+Configuración de MiniNO
