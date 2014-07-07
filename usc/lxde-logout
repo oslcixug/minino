@@ -1,0 +1,5 @@
+#!/bin/sh
+TXT="<span size='medium'><i>Coa tecnoloxía de</i>
+<b>MiniNo</b> <i>Ártabros</i></span>"
+IMG="/usr/local/share/icons/usc_logo.png"
+lxsession-logout --prompt "$TXT" --banner "$IMG" --side=top

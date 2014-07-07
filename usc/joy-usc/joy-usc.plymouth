@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Joy MiniNo, the default Debian 7.0 (Wheezy) theme, modified for MiniNo
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/joy-usc
+ScriptFile=/usr/share/plymouth/themes/joy-usc/joy-usc.script

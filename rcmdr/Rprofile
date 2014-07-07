@@ -1,0 +1,3 @@
+options(repos="http://ftp.cixug.es/CRAN")
+Sys.setlocale(category = "LC_MESSAGES",locale="es_ES.UTF-8")
+require("Rcmdr")
